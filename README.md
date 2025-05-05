@@ -5,7 +5,6 @@ Backend (Django)
 1. Перейти в папку backend:
    ```bash
    cd budgetbuddy-backend
-````
 
 2. Создать и активировать виртуальное окружение:
 
